@@ -1,3 +1,6 @@
+# Содержание
+Имеем компонент Products в котором циклом возращаем компонент Product, в котором по клику меняем состояние inCart в стейте родителя (Products).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
